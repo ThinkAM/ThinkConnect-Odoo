@@ -21,5 +21,5 @@ It contains the apps created with Studio and the customizations of existing apps
         'data/ir_model_access.xml',
     ],
     'application': False,
-    'license': 'OPL-1',
+    'license': 'Other proprietary',
 }
