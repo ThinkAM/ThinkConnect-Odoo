@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <odoo>
-  <record id="think_connect.think_connect_4641d0ee-83c3-414a-af13-4aac70d983a6" model="ir.ui.menu" >
+  <record id="think_connect.think_connect_4641d0ee-83c3-414a-af13-4aac70d983a7" model="ir.ui.menu" >
     <field name="action" eval="False"/>
     <field name="active" eval="True"/>
     <field name="groups_id" eval="[(6, 0, [])]"/>

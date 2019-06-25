@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <odoo>
-  <record id="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302" model="ir.model">
+  <record id="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1303" model="ir.model">
     <field name="info"> Main super-class for regular database-persisted Odoo models.
 
     Odoo models are created by inheriting from this class::
