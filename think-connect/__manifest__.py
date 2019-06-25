@@ -9,8 +9,7 @@ It contains the apps created with Studio and the customizations of existing apps
 """,
     'author': 'Think A.M.',
     'depends': [
-        'base',
-        'web_studio',
+        'base'
     ],
     'data': [
         'data/ir_model.xml',
