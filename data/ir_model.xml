@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<odoo>
+  <record id="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302" model="ir.model" context="{'studio': True}">
+    <field name="info"> Main super-class for regular database-persisted Odoo models.
+
+    Odoo models are created by inheriting from this class::
+
+        class user(Model):
+            ...
+
+    The system will later instantiate the class once per database (on
+    which the class' module is installed).
+    </field>
+    <field name="is_mail_thread" eval="False"/>
+    <field name="model">x_companies</field>
+    <field name="name">Companies</field>
+    <field name="state">manual</field>
+    <field name="transient" eval="False"/>
+  </record>
+</odoo>
