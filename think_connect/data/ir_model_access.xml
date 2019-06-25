@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <odoo>
-  <record model="ir.model.access">
+  <record id="think_connect.companies_group_syst_1b10deba-0514-41f1-a67b-f6759c89938f" model="ir.model.access">
     <field name="active" eval="True"/>
     <field name="group_id" ref="base.group_system"/>
     <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>

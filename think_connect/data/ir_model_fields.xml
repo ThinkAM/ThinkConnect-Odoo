@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <odoo>
-  <record model="ir.model.fields" >
+  <record id="think_connect.name_x_companies_7269d0b5-12ec-4412-8c18-a3c4be349dd9" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>

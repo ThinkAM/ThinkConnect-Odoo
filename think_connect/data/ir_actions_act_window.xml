@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <odoo>
-  <record model="ir.actions.act_window">
+  <record id="think_connect.companies_84985d62-d106-4697-87db-db80add38c34" model="ir.actions.act_window">
     <field name="auto_search" eval="True"/>
     <field name="binding_model_id" eval="False"/>
     <field name="binding_type">action</field>
