@@ -14,6 +14,7 @@
     <field name="active" eval="True"/>
     <field name="groups_id" eval="[(6, 0, [])]"/>
     <field name="name">Companies</field>
+    <field name="string">Empresas</field>
     <field name="parent_id" ref="think_connect.think_connect_4641d0ee-83c3-414a-af13-4aac70d983a6"/>
     <field name="sequence">10</field>
     <field name="web_icon" eval="False"/>

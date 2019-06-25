@@ -168,34 +168,6 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="think_connect.new_texto_x_companie_80c030f7-986e-4210-a3a2-d566ea3d4ea1" model="ir.model.fields" >
-    <field name="complete_name" eval="False"/>
-    <field name="compute" eval="False"/>
-    <field name="copied" eval="False"/>
-    <field name="depends" eval="False"/>
-    <field name="domain">[]</field>
-    <field name="field_description">New Texto</field>
-    <field name="groups" eval="[(6, 0, [])]"/>
-    <field name="help" eval="False"/>
-    <field name="index" eval="False"/>
-    <field name="model">x_companies</field>
-    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
-    <field name="name">x_studio_field_Nnl9M</field>
-    <field name="on_delete" eval="False"/>
-    <field name="readonly" eval="False"/>
-    <field name="related" eval="False"/>
-    <field name="relation" eval="False"/>
-    <field name="relation_field" eval="False"/>
-    <field name="required" eval="False"/>
-    <field name="selectable" eval="True"/>
-    <field name="selection" eval="False"/>
-    <field name="size" eval="False"/>
-    <field name="state">manual</field>
-    <field name="store" eval="True"/>
-    <field name="track_visibility" eval="False"/>
-    <field name="translate" eval="False"/>
-    <field name="ttype">char</field>
-  </record>
   <record id="think_connect.new_texto_x_companie_8abb2b3c-8794-43b9-9994-a68befbbc31b" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>

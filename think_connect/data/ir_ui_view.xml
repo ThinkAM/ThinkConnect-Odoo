@@ -59,14 +59,14 @@
         <xpath expr="//field[@name='x_name']" position="after">
           <field name="x_studio_street" string="Endereço"/>
           <field name="x_studio_field_Bqxma" string="Número"/>
-          <field name="x_studio_complement"/>
-          <field name="x_studio_neighborhood"/>
-          <field name="x_studio_city"/>
-          <field name="x_studio_state"/>
-          <field name="x_studio_zip_code"/>
-          <field name="x_studio_country"/>
-          <field name="x_studio_telephone"/>
-          <field name="x_studio_cellphone"/>
+          <field name="x_studio_complement" string="Complemento" />
+          <field name="x_studio_neighborhood" string="Bairro" />
+          <field name="x_studio_city" string="Cidade" />
+          <field name="x_studio_state" string="Estado" />
+          <field name="x_studio_zip_code" string="CEP" />
+          <field name="x_studio_country" string="País" />
+          <field name="x_studio_telephone" string="Telefone" />
+          <field name="x_studio_cellphone" string="Celular" />
         </xpath>
       </data>
     </field>
