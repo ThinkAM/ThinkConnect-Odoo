@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <odoo>
-  <record id="studio_customization.name_x_companies_7269d0b5-12ec-4412-8c18-a3c4be349dd9" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.name_x_companies_7269d0b5-12ec-4412-8c18-a3c4be349dd9" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -11,7 +11,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_name</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>
@@ -28,7 +28,7 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="studio_customization.new_texto_x_companie_5739ad36-2aaa-4b31-afc3-7eb92d491594" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.new_texto_x_companie_5739ad36-2aaa-4b31-afc3-7eb92d491594" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -39,7 +39,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_studio_field_Bqxma</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>
@@ -56,7 +56,7 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="studio_customization.new_texto_x_companie_110871af-462b-4495-affc-7bdd5615e143" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.new_texto_x_companie_110871af-462b-4495-affc-7bdd5615e143" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -67,7 +67,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_studio_e_mail</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>
@@ -84,7 +84,7 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="studio_customization.new_texto_x_companie_f25aa3cc-c925-4d67-aa9d-6de0b08c5bde" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.new_texto_x_companie_f25aa3cc-c925-4d67-aa9d-6de0b08c5bde" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -95,7 +95,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_studio_cnpj</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>
@@ -112,7 +112,7 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="studio_customization.new_texto_x_companie_e860a355-c925-41e5-891d-824b6ad62555" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.new_texto_x_companie_e860a355-c925-41e5-891d-824b6ad62555" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -123,7 +123,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_studio_fantasy_name</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>
@@ -140,7 +140,7 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="studio_customization.new_texto_x_companie_124856f7-85dc-4242-b3ab-64bd279a7f0e" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.new_texto_x_companie_124856f7-85dc-4242-b3ab-64bd279a7f0e" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -151,7 +151,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_studio_street</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>
@@ -168,35 +168,7 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="studio_customization.new_texto_x_companie_80c030f7-986e-4210-a3a2-d566ea3d4ea1" model="ir.model.fields" context="{'studio': True}">
-    <field name="complete_name" eval="False"/>
-    <field name="compute" eval="False"/>
-    <field name="copied" eval="False"/>
-    <field name="depends" eval="False"/>
-    <field name="domain">[]</field>
-    <field name="field_description">New Texto</field>
-    <field name="groups" eval="[(6, 0, [])]"/>
-    <field name="help" eval="False"/>
-    <field name="index" eval="False"/>
-    <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
-    <field name="name">x_studio_field_Nnl9M</field>
-    <field name="on_delete" eval="False"/>
-    <field name="readonly" eval="False"/>
-    <field name="related" eval="False"/>
-    <field name="relation" eval="False"/>
-    <field name="relation_field" eval="False"/>
-    <field name="required" eval="False"/>
-    <field name="selectable" eval="True"/>
-    <field name="selection" eval="False"/>
-    <field name="size" eval="False"/>
-    <field name="state">manual</field>
-    <field name="store" eval="True"/>
-    <field name="track_visibility" eval="False"/>
-    <field name="translate" eval="False"/>
-    <field name="ttype">char</field>
-  </record>
-  <record id="studio_customization.new_texto_x_companie_8abb2b3c-8794-43b9-9994-a68befbbc31b" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.new_texto_x_companie_8abb2b3c-8794-43b9-9994-a68befbbc31b" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -207,7 +179,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_studio_complement</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>
@@ -224,7 +196,7 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="studio_customization.new_texto_x_companie_d35fa084-f48d-4447-8408-13afae67bbc7" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.new_texto_x_companie_d35fa084-f48d-4447-8408-13afae67bbc7" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -235,7 +207,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_studio_neighborhood</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>
@@ -252,7 +224,7 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="studio_customization.new_texto_x_companie_43dfc251-3d4f-410d-8b22-04149b2d6c22" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.new_texto_x_companie_43dfc251-3d4f-410d-8b22-04149b2d6c22" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -263,7 +235,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_studio_city</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>
@@ -280,7 +252,7 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="studio_customization.new_texto_x_companie_fa5f29d2-1985-4377-b3c7-13edfa612a88" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.new_texto_x_companie_fa5f29d2-1985-4377-b3c7-13edfa612a88" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -291,7 +263,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_studio_state</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>
@@ -308,7 +280,7 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="studio_customization.new_texto_x_companie_4e5dd8e8-3103-4085-8127-b92a60765251" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.new_texto_x_companie_4e5dd8e8-3103-4085-8127-b92a60765251" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -319,7 +291,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_studio_zip_code</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>
@@ -336,7 +308,7 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="studio_customization.new_texto_x_companie_5618774c-d57f-4786-92ea-a34d413e0905" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.new_texto_x_companie_5618774c-d57f-4786-92ea-a34d413e0905" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -347,7 +319,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_studio_country</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>
@@ -364,7 +336,7 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="studio_customization.new_texto_x_companie_e77f410f-2619-467a-a021-b63073fa8c41" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.new_texto_x_companie_e77f410f-2619-467a-a021-b63073fa8c41" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -375,7 +347,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_studio_cellphone</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>
@@ -392,7 +364,7 @@
     <field name="translate" eval="False"/>
     <field name="ttype">char</field>
   </record>
-  <record id="studio_customization.new_texto_x_companie_e5970eba-2f62-4836-acf6-cc082b9d3df3" model="ir.model.fields" context="{'studio': True}">
+  <record id="think_connect.new_texto_x_companie_e5970eba-2f62-4836-acf6-cc082b9d3df3" model="ir.model.fields" >
     <field name="complete_name" eval="False"/>
     <field name="compute" eval="False"/>
     <field name="copied" eval="False"/>
@@ -403,7 +375,7 @@
     <field name="help" eval="False"/>
     <field name="index" eval="False"/>
     <field name="model">x_companies</field>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">x_studio_telephone</field>
     <field name="on_delete" eval="False"/>
     <field name="readonly" eval="False"/>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <odoo>
-  <record id="studio_customization.default_form_view_fo_b38eac0f-707c-4f67-9e3f-9e543d6fceee" model="ir.ui.view" context="{'studio': True}">
+  <record id="think_connect.default_form_view_fo_b38eac0f-707c-4f67-9e3f-9e543d6fceee" model="ir.ui.view">
     <field name="active" eval="True"/>
     <field name="arch" type="xml">
       <form>
@@ -27,7 +27,7 @@
     <field name="priority">16</field>
     <field name="type">form</field>
   </record>
-  <record id="studio_customization.default_tree_view_fo_14fea678-b1b1-4fc0-b54a-96190cdd541d" model="ir.ui.view" context="{'studio': True}">
+  <record id="think_connect.default_tree_view_fo_14fea678-b1b1-4fc0-b54a-96190cdd541d" model="ir.ui.view" >
     <field name="active" eval="True"/>
     <field name="arch" type="xml">
       <tree string="Empresas">
@@ -44,7 +44,7 @@
     <field name="priority">16</field>
     <field name="type">tree</field>
   </record>
-  <record id="studio_customization.odoo_studio_default__6541abf9-9a69-4a0c-a192-33fc842dd5ef" model="ir.ui.view" context="{'studio': True}">
+  <record id="think_connect.odoo_studio_default__6541abf9-9a69-4a0c-a192-33fc842dd5ef" model="ir.ui.view" >
     <field name="active" eval="True"/>
     <field name="arch" type="xml">
       <data>
@@ -59,20 +59,20 @@
         <xpath expr="//field[@name='x_name']" position="after">
           <field name="x_studio_street" string="Endereço"/>
           <field name="x_studio_field_Bqxma" string="Número"/>
-          <field name="x_studio_complement"/>
-          <field name="x_studio_neighborhood"/>
-          <field name="x_studio_city"/>
-          <field name="x_studio_state"/>
-          <field name="x_studio_zip_code"/>
-          <field name="x_studio_country"/>
-          <field name="x_studio_telephone"/>
-          <field name="x_studio_cellphone"/>
+          <field name="x_studio_complement" string="Complemento" />
+          <field name="x_studio_neighborhood" string="Bairro" />
+          <field name="x_studio_city" string="Cidade" />
+          <field name="x_studio_state" string="Estado" />
+          <field name="x_studio_zip_code" string="CEP" />
+          <field name="x_studio_country" string="País" />
+          <field name="x_studio_telephone" string="Telefone" />
+          <field name="x_studio_cellphone" string="Celular" />
         </xpath>
       </data>
     </field>
     <field name="field_parent" eval="False"/>
     <field name="groups_id" eval="[(6, 0, [])]"/>
-    <field name="inherit_id" ref="studio_customization.default_tree_view_fo_14fea678-b1b1-4fc0-b54a-96190cdd541d"/>
+    <field name="inherit_id" ref="think_connect.default_tree_view_fo_14fea678-b1b1-4fc0-b54a-96190cdd541d"/>
     <field name="key" eval="False"/>
     <field name="mode">extension</field>
     <field name="model">x_companies</field>
@@ -80,7 +80,7 @@
     <field name="priority">99</field>
     <field name="type">tree</field>
   </record>
-  <record id="studio_customization.odoo_studio_default__6b986c47-e4f4-4f7e-8870-c61bc56936f8" model="ir.ui.view" context="{'studio': True}">
+  <record id="think_connect.odoo_studio_default__6b986c47-e4f4-4f7e-8870-c61bc56936f8" model="ir.ui.view" >
     <field name="active" eval="True"/>
     <field name="arch" type="xml">
       <data>
@@ -147,7 +147,7 @@
     </field>
     <field name="field_parent" eval="False"/>
     <field name="groups_id" eval="[(6, 0, [])]"/>
-    <field name="inherit_id" ref="studio_customization.default_form_view_fo_b38eac0f-707c-4f67-9e3f-9e543d6fceee"/>
+    <field name="inherit_id" ref="think_connect.default_form_view_fo_b38eac0f-707c-4f67-9e3f-9e543d6fceee"/>
     <field name="key" eval="False"/>
     <field name="mode">extension</field>
     <field name="model">x_companies</field>
