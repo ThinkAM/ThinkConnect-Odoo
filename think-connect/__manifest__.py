@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Think Connect',
-    'version': '12.0.1.0',
+    'version': '12.0.1.1',
     'category': 'Think A.M.',
     'description': u"""
 This module has been created by Think A.M..
