@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <odoo>
-  <record id="think_connect.default_form_view_fo_b38eac0f-707c-4f67-9e3f-9e543d6fceef" model="ir.ui.view" >
+  <record model="ir.ui.view">
     <field name="active" eval="True"/>
     <field name="arch" type="xml">
       <form>
