@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <odoo>
-  <record id="studio_customization.companies_group_syst_1b10deba-0514-41f1-a67b-f6759c89938f" model="ir.model.access" context="{'studio': True}">
+  <record id="think_connect.companies_group_syst_1b10deba-0514-41f1-a67b-f6759c89938f" model="ir.model.access">
     <field name="active" eval="True"/>
     <field name="group_id" ref="base.group_system"/>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">Companies group_system</field>
     <field name="perm_create" eval="True"/>
     <field name="perm_read" eval="True"/>
     <field name="perm_unlink" eval="True"/>
     <field name="perm_write" eval="True"/>
   </record>
-  <record id="studio_customization.companies_group_user_f21df2f9-d660-4bd1-a2f8-078fdc79190f" model="ir.model.access" context="{'studio': True}">
+  <record id="think_connect.companies_group_user_f21df2f9-d660-4bd1-a2f8-078fdc79190f" model="ir.model.access" >
     <field name="active" eval="True"/>
     <field name="group_id" ref="base.group_user"/>
-    <field name="model_id" ref="studio_customization.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
+    <field name="model_id" ref="think_connect.companies_512503b8-2050-4edc-9423-90a0578d1302"/>
     <field name="name">Companies group_user</field>
     <field name="perm_create" eval="False"/>
     <field name="perm_read" eval="True"/>
